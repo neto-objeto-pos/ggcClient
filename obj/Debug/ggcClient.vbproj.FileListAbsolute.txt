@@ -1,0 +1,120 @@
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcClient.dll
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcClient.pdb
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcClient.xml
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcAppDriver.dll
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\MySql.Data.dll
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcAppDriver.pdb
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\ggcAppDriver.xml
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\bin\Debug\MySql.Data.Entity.dll
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ResolveAssemblyReference.cache
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\GenerateResource.read.1.tlog
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\GenerateResource.write.1.tlog
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ggcClient.dll
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ggcClient.xml
+X:\xurpas\Programs\GMC SEG Folder\NET\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+Z:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+Y:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.frmClient.resources
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.Resources.resources
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.dll
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.xml
+X:\GMC SEG Folder\vb.net\My Applications\ggcClient\obj\Debug\ggcClient.pdb
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.frmClient.resources
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.Resources.resources
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.dll
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.xml
+Y:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.pdb
+C:\GGC_Systems\vb.net\ggcClient.dll
+C:\GGC_Systems\vb.net\ggcClient.pdb
+C:\GGC_Systems\vb.net\ggcClient.xml
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.vbprojResolveAssemblyReference.cache
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.dll
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.xml
+D:\PEDRITOS POS\ggcClient\obj\Debug\ggcClient.pdb
+Y:\POS\ggcClient\obj\Debug\ggcClient.frmClient.resources
+Y:\POS\ggcClient\obj\Debug\ggcClient.Resources.resources
+Y:\POS\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.Cache
+Y:\POS\ggcClient\obj\Debug\ggcClient.dll
+Y:\POS\ggcClient\obj\Debug\ggcClient.xml
+Y:\POS\ggcClient\obj\Debug\ggcClient.pdb
+D:\POS\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+D:\POS\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\POS\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\POS\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+D:\POS\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+D:\POS\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+D:\POS\ggcClient\obj\Debug\ggcClient.dll
+D:\POS\ggcClient\obj\Debug\ggcClient.xml
+D:\POS\ggcClient\obj\Debug\ggcClient.pdb
+D:\POSold\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+D:\POSold\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\POSold\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\POSold\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+D:\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+D:\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+D:\POSold\ggcClient\obj\Debug\ggcClient.dll
+D:\POSold\ggcClient\obj\Debug\ggcClient.xml
+D:\POSold\ggcClient\obj\Debug\ggcClient.pdb
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.dll
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.xml
+D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.dll
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.xml
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.dll
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.xml
+D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.pdb
