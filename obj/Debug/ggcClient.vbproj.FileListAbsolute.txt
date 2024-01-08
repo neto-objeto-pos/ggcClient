@@ -106,9 +106,6 @@ D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
 D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.dll
 D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.xml
 D:\LP POS\POSold\ggcClient\obj\Debug\ggcClient.pdb
-C:\GGC_Systems\vb.net\RetMgySys\ggcClient.dll
-C:\GGC_Systems\vb.net\RetMgySys\ggcClient.pdb
-C:\GGC_Systems\vb.net\RetMgySys\ggcClient.xml
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.frmClient.resources
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.Resources.resources
@@ -118,3 +115,18 @@ D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.vbproj.
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.dll
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.xml
 D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.dll
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgySys\ggcClient.xml
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.dll
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.xml
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.frmClient.resources
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.Resources.resources
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.dll
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.xml
+C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.pdb
