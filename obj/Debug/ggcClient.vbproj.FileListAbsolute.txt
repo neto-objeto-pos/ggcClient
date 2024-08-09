@@ -118,9 +118,6 @@ D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcClient\obj\Debug\ggcClient.pdb
 C:\GGC_Systems\vb.net\RetMgySys\ggcClient.dll
 C:\GGC_Systems\vb.net\RetMgySys\ggcClient.pdb
 C:\GGC_Systems\vb.net\RetMgySys\ggcClient.xml
-C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.dll
-C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.pdb
-C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.xml
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.frmClient.resources
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.Resources.resources
@@ -130,3 +127,27 @@ C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.vbproj.CopyCompl
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.dll
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.xml
 C:\Users\Maynard\Documents\GitHub\ggcClient\obj\Debug\ggcClient.pdb
+D:\GGC_Systems\vb.net\RetMgtSys\ggcClient.dll
+D:\GGC_Systems\vb.net\RetMgtSys\ggcClient.pdb
+D:\GGC_Systems\vb.net\RetMgtSys\ggcClient.xml
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.frmClient.resources
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.Resources.resources
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.dll
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.xml
+D:\000MNVProject\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.dll
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\ggcClient.xml
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.AssemblyReference.cache
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.frmClient.resources
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.Resources.resources
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.GenerateResource.cache
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.CoreCompileInputs.cache
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.vbproj.CopyComplete
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.dll
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.xml
+C:\Users\Maynard\Documents\GitHub\Los Pedritos Cafeteria IntegSys - VB.net\ggcClient\obj\Debug\ggcClient.pdb
