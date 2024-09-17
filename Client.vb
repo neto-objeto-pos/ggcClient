@@ -402,7 +402,9 @@ Public Class Client
         If p_sParent = "" Then p_oApp.BeginTransaction()
 
         If p_nEditMode = xeEditMode.MODE_ADDNEW Then
-            p_oDTMstr(0).Item("sClientID") = GetNextCode(p_sMasTable, "sClientID", True, p_oApp.Connection, True, p_oApp.BranchCode)
+            'kalyptus - 2024.09.17 11:41am
+            'Include terminal number in sClientID
+            p_oDTMstr(0).Item("sClientID") = GetNextCode(p_sMasTable, "sClientID", True, p_oApp.Connection, True, p_oApp.BranchCode + p_oApp.POSTerminal)
             lsSQL = ADO2SQL(p_oDTMstr, p_sMasTable, , p_oApp.UserID, p_oApp.SysDate)
 
             If p_oApp.Execute(lsSQL, p_sMasTable) = 0 Then
@@ -412,15 +414,15 @@ Public Class Client
 
             'Save Mobile
             If p_oDTMstr(0).Item("sMobileNo") <> "" Then
-                lsSQL = "INSERT INTO Client_Mobile" & _
-                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) & _
-                          ", nEntryNox = 1" & _
-                          ", sMobileNo = " & strParm(p_oDTMstr(0).Item("sMobileNo")) & _
-                          ", nPriority = 1" & _
-                          ", cIncdMktg = '1'" & _
-                          ", nNoRetryx = 0" & _
-                          ", cInvalidx = '0'" & _
-                          ", cNewMobil = '1'" & _
+                lsSQL = "INSERT INTO Client_Mobile" &
+                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) &
+                          ", nEntryNox = 1" &
+                          ", sMobileNo = " & strParm(p_oDTMstr(0).Item("sMobileNo")) &
+                          ", nPriority = 1" &
+                          ", cIncdMktg = '1'" &
+                          ", nNoRetryx = 0" &
+                          ", cInvalidx = '0'" &
+                          ", cNewMobil = '1'" &
                           ", cRecdStat = '1'"
                 If p_oApp.Execute(lsSQL, "Client_Mobile") = 0 Then
                     If p_sParent = "" Then p_oApp.RollBackTransaction()
@@ -430,13 +432,13 @@ Public Class Client
 
             'Save Telephone
             If p_oDTMstr(0).Item("sPhoneNox") <> "" Then
-                lsSQL = "INSERT INTO Client_Telephone" & _
-                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) & _
-                          ", nEntryNox = 1" & _
-                          ", sPhoneNox = " & strParm(p_oDTMstr(0).Item("sPhoneNox")) & _
-                          ", nPriority = 1" & _
-                          ", cInvalidx = '0'" & _
-                          ", cConfirmd = '0'" & _
+                lsSQL = "INSERT INTO Client_Telephone" &
+                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) &
+                          ", nEntryNox = 1" &
+                          ", sPhoneNox = " & strParm(p_oDTMstr(0).Item("sPhoneNox")) &
+                          ", nPriority = 1" &
+                          ", cInvalidx = '0'" &
+                          ", cConfirmd = '0'" &
                           ", cRecdStat = '1'"
                 If p_oApp.Execute(lsSQL, "Client_Telephone") = 0 Then
                     If p_sParent = "" Then p_oApp.RollBackTransaction()
@@ -446,10 +448,10 @@ Public Class Client
 
             'Save Email Address
             If p_oDTMstr(0).Item("sEmailAdd") <> "" Then
-                lsSQL = "INSERT INTO Client_eMail_Address" & _
-                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) & _
-                          ", nEntryNox = 1" & _
-                          ", sEmailAdd = " & strParm(p_oDTMstr(0).Item("sEmailAdd")) & _
+                lsSQL = "INSERT INTO Client_eMail_Address" &
+                       " SET sClientID = " & strParm(p_oDTMstr(0).Item("sClientID")) &
+                          ", nEntryNox = 1" &
+                          ", sEmailAdd = " & strParm(p_oDTMstr(0).Item("sEmailAdd")) &
                           ", nPriority = 1"
                 If p_oApp.Execute(lsSQL, "Client_eMail_Address") = 0 Then
                     If p_sParent = "" Then p_oApp.RollBackTransaction()
@@ -738,7 +740,9 @@ Public Class Client
         For lnCtr = 0 To p_oDTMstr.Columns.Count - 1
             Select Case LCase(p_oDTMstr.Columns(lnCtr).ColumnName)
                 Case "sclientid"
-                    p_oDTMstr(0).Item(lnCtr) = GetNextCode(p_sMasTable, "sClientID", True, p_oApp.Connection, True, p_oApp.BranchCode)
+                    'kalyptus - 2024.09.17 11:42am
+                    'Include terminal number in sClientID
+                    p_oDTMstr(0).Item(lnCtr) = GetNextCode(p_sMasTable, "sClientID", True, p_oApp.Connection, True, p_oApp.BranchCode + p_oApp.POSTerminal)
                 Case "dbirthdte"
                     p_oDTMstr(0).Item(lnCtr) = xsNULL_DATE
                 Case "ngrssincm"
